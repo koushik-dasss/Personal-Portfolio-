@@ -1,0 +1,21 @@
+h1{
+    color: blueviolet;
+}
+h2{
+    color:cadetblue;
+}
+h3{
+    color:cornflowerblue;
+}
+
+body {
+    background-image: url("https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNvZGluZ3xlbnwwfHwwfHx8MA%3D%3D");
+    background-position: top center;
+    background-repeat: repeat-y;
+    background-size: 100% 50%;
+}
+body{
+    color: palevioletred;
+}
+
+  
